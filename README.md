@@ -10,4 +10,4 @@ Desafío 1. Análisis exploratorio de un dataset de precios de propiedades.
 * `requirements.txt` Archivo con las dependencias necesarias para poder ejecutar las notebooks.
 
 ## Links de referencia
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) Documentación para escribir archivos con Markdown.
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Documentación para escribir archivos con Markdown.
