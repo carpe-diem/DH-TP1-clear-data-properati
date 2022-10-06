@@ -5,7 +5,8 @@ Desafío 1. Análisis exploratorio de un dataset de precios de propiedades.
 ## Estructura de archivos
 * `/consignas/` Todos los archivos relacionados a las consignas del proyecto.
 * `/dataset/` Aquí se descargan los datasets necesarios para el proyecto. Ver documentación relacionada [aquí](dataset/README.md) 
-* `/src/` -> Archivos con el código del proyecto. Ver detalles en [README](src/README.md) del directorio. 
+* `/src/` -> Archivos con el código del proyecto. Ver detalles en [README](src/README.md) del directorio.
+* `/src/analisis_columnas` -> Archivos con el código del análisis de cada columna individualmente.
 * `.gitignore` -> Archivo de git para excluir archivos no necesarios del repositorio.
 * `requirements.txt` Archivo con las dependencias necesarias para poder ejecutar las notebooks.
 
